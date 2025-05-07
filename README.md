@@ -1,1 +1,0 @@
-# simple-eks-web-app
