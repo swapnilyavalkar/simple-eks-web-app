@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Docker
+*.log
+*.tar
+*.tar.gz
+
+# Helm
+helm/monitor-app/charts/
+helm/monitor-app/Chart.lock
